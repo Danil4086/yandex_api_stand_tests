@@ -1,7 +1,5 @@
 import configuration
 import requests
-import configuration
-import requests
 import data
 
 
